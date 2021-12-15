@@ -1,0 +1,92 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-color: #320D6D;
+}
+
+#btnPrim {
+    background-color: #FFD447;
+}
+
+#imgLogo1 {
+    height: 150px;
+    width: 25%;
+}
+
+#titulo {
+    color: #FFD447;
+    text-align: center;
+}
+
+#nav a {
+    color: #700353;
+}
+
+#nav {
+    padding: 0;
+}
+
+main {
+    margin-top: 75px;
+}
+
+#containerMain {
+    margin-top: 75px;
+}
+
+.card-img-top {
+    width: 50%;
+}
+
+.divCompra {
+    border: 1px solid rgb(19, 18, 18);
+    text-align: center;
+    font-size: 3em;
+    padding: 20px;
+    margin: auto;
+    color: #700353;
+    background-color: #FFD447;
+}
+
+.divForm {
+    border: 1px solid rgb(19, 18, 18);
+    text-align: center;
+    font-size: 1, 5em;
+    padding: 20px;
+    margin: auto;
+    color: #700353;
+    background-color: #FFD447;
+}
+
+
+/* ? SHOPPING CART */
+
+.shopping-cart {
+    background-color: white;
+}
+
+.shopping-cart-items {
+    padding: 20px 0px;
+    background-color: white;
+}
+
+.shopping-cart-header {
+    border-bottom: 1px solid #ccc;
+}
+
+.shopping-cart-image {
+    max-width: 80px;
+    border-radius: 20px;
+}
+
+.shopping-cart-quantity-input {
+    max-width: 45px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background: #eee;
+    padding: 5px;
+}
+
+.shopping-cart-total {
+    min-height: 96px;
+}
